@@ -141,7 +141,7 @@
 			color: #0F606B;
 			font-weight: bolder;
 			text-align: center;
-			padding-top:5px;
+			padding: 35px;
 			margin: auto;
 		}
     </style>    
