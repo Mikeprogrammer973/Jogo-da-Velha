@@ -40,6 +40,7 @@
 			placarCPU = 0;
 			document.getElementById("score_player").innerHTML = "0";
 			document.getElementById("score_cpu").innerHTML = "0";
+			document.getElementById("config").style.display="none";
 			iniciar();
 			
 		}
